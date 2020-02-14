@@ -1,0 +1,202 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+}
+
+.btn {
+    background-color: white;
+    color: palevioletred;
+    padding-right: 50px;
+    border-radius: 25px;
+    margin-right: -35px;
+    
+}
+
+.er {
+    text-align: center;
+    font-size: 30px;
+    line-height: 2rem;
+    padding: 40px;
+    margin: 20px;
+}
+.df {
+    padding: 10px;
+}
+
+form {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.im {
+    padding: 10px 20px;
+    border-radius: 20px;
+    width: 65%;
+    border: 0.8px solid hsla(0,19%,60%,0.652);
+    background-color: palevioletred;
+
+    
+}
+
+.mm {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.ww {
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.j {
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.d {
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.t {
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.b h1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.b p {
+    margin-top: 30px;
+}
+
+.c {
+    margin-top: 90px;
+}
+
+.c h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.c p {
+    margin-top: 30px;
+}
+
+.y {
+    margin-top: 90px;
+}
+
+.y h1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.y p {
+    margin-top: 30px; 
+}
+
+.o h1 {
+    text-align: center;
+    font-size: 30px;
+    line-height: 2rem;
+    padding: 40px;
+    margin: 20px;
+}
+
+form {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.iq {
+    padding: 10px 20px;
+    border-radius: 20px;
+    width: 65%;
+    border: 0.8px solid hsla(0,19%,60%,0.652);
+    background-color: palevioletred;
+}
+
+    
+.uy {
+    width: 100%;
+    margin-top: 100px;
+    background-size: cover;
+    margin-bottom: 900px;
+    color: white;
+}
+.iut { background-color: hsl(192, 100%, 9%);
+}
+
+.uy h1{
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.uy p{
+    margin-top: 5px; 
+}
+
+form {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.du {
+    padding-top: 40px;
+    margin-top: 50px;
+    width: 65%;
+    background-color: white;
+}
+
+form {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.req {
+    padding: 10px 20px;
+    border-radius: 20px;
+    width: 65%;
+    border: 0.8px solid hsla(0,19%,60%,0.652);
+    background-color: palevioletred;
+}
+
+.iot {
+    padding-top: 30px;
+}
+
+
+
+
